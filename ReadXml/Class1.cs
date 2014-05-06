@@ -27,7 +27,7 @@ namespace ReadXMLfromFile
                         Console.WriteLine(">");
                         break;
                 }
-                /**
+                
                 switch (reader.NodeType)
                 {
                     case XmlNodeType.Element: // The node is an element.
@@ -45,7 +45,7 @@ namespace ReadXMLfromFile
                         Console.WriteLine(">");
                         break;
                 }
-                **/
+               
             }
             Console.ReadLine();
         }
